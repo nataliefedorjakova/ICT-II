@@ -5,8 +5,8 @@ Preparation for ICT-II exam. Public until I pass it.
 ## Syllabus:
 
 ### Identifikace, autentizace a datové schránky
-Pojem elektronického podpisu a současné legislativní změny; rozdíl oproti elektronické pečeti.
-Nařízení eIDAS – důvody přijetí.
+Pojem elektronického podpisu a současné legislativní změny; rozdíl oproti elektronické pečeti.  
+Nařízení eIDAS – důvody přijetí.  
 Charakterizujte a popište právní otázky související s elektornickou identifikací ve smyslu prokázání totožnosti.
 Datové schránky - shrňte výhody, nevýhody a mj. se zaměřte na okamžik doručení.
 Judikatura k elektronické identifikaci subjektu a datovým schránkám.
